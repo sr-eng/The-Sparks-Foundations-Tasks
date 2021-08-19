@@ -18,4 +18,3 @@ line = model.coef_*x+model.intercept_
 plt.scatter(x, y)
 plt.plot(x, line)
 plt.show()
-
